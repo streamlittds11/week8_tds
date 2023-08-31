@@ -4,7 +4,7 @@ This app finds the largest among the 3 given numbers(value greater than the othe
 """)
 #Get Input
 
-st.header('User Input Parameters')
+st.subheader('User Input Parameters')
 
 def user_input_features():
     Number_1 = st.number_input("Number_1",min_value=-100000000,max_value=1000000000)
