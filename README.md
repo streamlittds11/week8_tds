@@ -1,2 +1,2 @@
-# streamlit-heroku
-Streamlit+Heroku for Credit Card Decline Prediction
+# streamlit
+Streamlit for finding the largest among three numbers
