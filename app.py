@@ -12,6 +12,6 @@ def user_input_features():
     Number_3 = st.number_input("Number_3",min_value=-100000000,max_value=1000000000)
     
     return max(Number_1,Number_2,Number_3)
-
+answer=user_input_features()
 st.subheader('Largest Number')
-st.write(user_input_features())
+st.write(answer)
