@@ -1,5 +1,5 @@
 import streamlit as st
-st.write("""
+st.header("""
 This app finds the largest among the 3 given numbers(value greater than the other two).
 """)
 #Get Input
